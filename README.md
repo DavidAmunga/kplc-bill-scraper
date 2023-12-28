@@ -53,4 +53,4 @@ This project is not affiliated with or endorsed by the Kenya Power and Lighting 
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](https://github.com/DavidAmunga/kplc-bill-scraper/blob/main/LICENSE) for more details
+This project is licensed under the MIT License. See [LICENSE](https://github.com/DavidAmunga/kplc-bill-scraper/blob/master/LICENSE) for more details
