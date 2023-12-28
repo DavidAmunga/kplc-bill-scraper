@@ -1,0 +1,19 @@
+{
+  "name": "kplc-bill-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^16.0.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-adblocker": "^2.13.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.0",
+    "request-promise-native": "^1.0.9"
+  }
+}
